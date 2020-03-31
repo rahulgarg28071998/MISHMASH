@@ -1,7 +1,7 @@
 # MISHMASH
 # Your physio assistant.
 
-**By Sanskar Jethi, Ankit Maity, Shivay Lamba**
+**By WORLD HACKERS**
 
 -   Access the live application at: https://https://aidenassistant.azurewebsites.net/
 -   View our presentation slides at: https://docs.google.com/presentation/d/1wfyXXhWVZlDHjmuZIOpDDSzM61cEW7bwP6AOjpxJU_A/edit?usp=sharing
