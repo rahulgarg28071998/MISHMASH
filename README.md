@@ -1,4 +1,5 @@
-# AIDEN. Your physio assistant.
+# MISHMASH
+# Your physio assistant.
 
 **By Sanskar Jethi, Ankit Maity, Shivay Lamba**
 
